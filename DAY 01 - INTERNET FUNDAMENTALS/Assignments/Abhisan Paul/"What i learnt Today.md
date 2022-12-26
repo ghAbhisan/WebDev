@@ -113,6 +113,4 @@ A backbone is a part of a network that connects different devices and provides a
 Metropolitan area networks are networks that stretch across a region the size of a metropolitan area. A MAN is a series of connected LANs in a city, which might also connect to a WAN.
 ---
 ##### Thanks for reading this bl0g, I wish you liked it O.O
-<style>
-        h5{text-align: center;}
-    </style>
+
